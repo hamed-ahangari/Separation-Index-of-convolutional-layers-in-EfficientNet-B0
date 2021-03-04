@@ -19,13 +19,13 @@ For classification problems, the separation rate of target labels in the space o
 - **Separation Index concept and formulas**: [Evaluation of Dataflow through layers of Deep Neural Networks in Classification and Regression Problems](https://arxiv.org/ftp/arxiv/papers/1906/1906.05156.pdf)
 
 ## Plots
-- SI values of some of the layers in convolutional blocks through the model![## **SI values of some of the layers**](https://raw.githubusercontent.com/hamed-ahangari/Separation-Index-of-convolutional-layers-in-EfficientNet-B0/main/Results/SI%20values%20of%20some%20layers%20in%20convolutional%20blocks%20through%20the%20model.png)
+- SI values of some of the layers in convolutional blocks through the model![## **SI values of some of the layers**](https://raw.githubusercontent.com/hamed-ahangari/Separation-Index-of-convolutional-layers-in-EfficientNet-B0/master/Results/SI%20values%20of%20some%20layers%20in%20convolutional%20blocks%20through%20the%20model.png)
 
 - Number of parameters of the convolutional layers
-![Number of the convolutional layers' parameters](https://raw.githubusercontent.com/hamed-ahangari/Separation-Index-of-convolutional-layers-in-EfficientNet-B0/main/Results/Number%20of%20parameters%20of%20the%20convolutional%20layers.png)
+![Number of the convolutional layers' parameters](https://raw.githubusercontent.com/hamed-ahangari/Separation-Index-of-convolutional-layers-in-EfficientNet-B0/master/Results/Number%20of%20parameters%20of%20the%20convolutional%20layers.png)
 
 - Depths of the convolutional layers
-![Depths of the convolutional layers](https://raw.githubusercontent.com/hamed-ahangari/Separation-Index-of-convolutional-layers-in-EfficientNet-B0/main/Results/Depths%20of%20the%20convolutional%20layers.png)
+![Depths of the convolutional layers](https://raw.githubusercontent.com/hamed-ahangari/Separation-Index-of-convolutional-layers-in-EfficientNet-B0/master/Results/Depths%20of%20the%20convolutional%20layers.png)
 
 ## References
 - Tan, Mingxing, and Quoc Le. "Efficientnet: Rethinking model scaling for convolutional neural networks." International Conference on Machine Learning. PMLR, 2019.: [paper](https://arxiv.org/abs/1905.11946)
