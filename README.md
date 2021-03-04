@@ -1,6 +1,6 @@
 
 # Separation Index of convolutional layers in EfficientNet-B0
-In [this Jupyter Notebook](https://github.com/hamed-ahangari/Separation-Index-of-convolutional-layers-in-EfficientNet-B0/blob/master/SI_in_convolutional_layers_of_EfficientNetB0.ipynb), I've tried to calculate the Separation Index of the convolutional layers' outputs in a pretrained EfficientNet-B0.
+In [this Jupyter Notebook](https://github.com/hamed-ahangari/Separation-Index-of-convolutional-layers-in-EfficientNet-B0/blob/master/SI_in_EfficientNetB0.ipynb), I've tried to calculate the Separation Index of the convolutional layers' outputs in a pretrained EfficientNet-B0.
 
 ## Separation Index
 Separation and Smoothness indices are explaind in [this paper](https://arxiv.org/abs/1906.05156); Short from the abstract:
