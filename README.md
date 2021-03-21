@@ -1,6 +1,7 @@
 
 # Separation Index of convolutional layers in EfficientNet-B0
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TjVkqSxdXMm8z5B_pBXMoo9tT5gbFeCa?usp=sharing)
+
 In [this Jupyter Notebook](https://github.com/hamed-ahangari/Separation-Index-of-convolutional-layers-in-EfficientNet-B0/blob/master/SI_in_EfficientNetB0.ipynb), I've tried to calculate the Separation Index of the convolutional layers' outputs in a pretrained EfficientNet-B0.
 
 ## Separation Index
