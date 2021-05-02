@@ -1,11 +1,18 @@
-
 # Separation Index of convolutional layers in EfficientNet-B0
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TjVkqSxdXMm8z5B_pBXMoo9tT5gbFeCa?usp=sharing)
 
 In [this Jupyter Notebook](https://github.com/hamed-ahangari/Separation-Index-of-convolutional-layers-in-EfficientNet-B0/blob/master/SI_in_EfficientNetB0.ipynb), I've tried to calculate the Separation Index of the convolutional layers' outputs in a pretrained EfficientNet-B0.
 
+**Table of contents**
+- [Separation Index of convolutional layers in EfficientNet-B0](#separation-index-of-convolutional-layers-in-efficientnet-b0)
+  - [Separation Index](#separation-index)
+  - [Code Specifications](#code-specifications)
+  - [Plots](#plots)
+  - [References](#references)
+  - [Extra](#extra)
+
 ## Separation Index
-Separation and Smoothness indices are explaind in [this paper](https://arxiv.org/abs/1906.05156); Short from the abstract:
+Separation and Smoothness indices are explaind in [this paper](https://arxiv.org/abs/1906.05156); short from the abstract:
 
 `
 For classification problems, the separation rate of target labels in the space of dataflow is explained as a key factor indicating the performance of designed layers in improving the generalization of the network. According to the explained concept, a shapeless distance‐based evaluation index is proposed. Similarly, for regression problems, the smoothness rate of target outputs in the space of dataflow is explained as a key factor indicating the performance of designed layers in improving the generalization of the network. According to the explained smoothness concept, a shapeless distance‐based smoothness index is proposed for regression problems. To consider more strictly concepts of separation and smoothness, their extended versions are introduced, and by interpreting a regression problem as a classification problem, it is shown that the separation and smoothness indices are related together.
